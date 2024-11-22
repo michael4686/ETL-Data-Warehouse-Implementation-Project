@@ -1,2 +1,9 @@
-# ETL-Data-Warehouse-Implementation-Project
-Data Warehouse ETL solution implementing full pipeline from API to SQL Server, featuring Python ETL and SSIS integration. Built during DEPI Data Engineering Track.
+
+# Data Warehouse ETL Project
+
+This project demonstrates how to extract API data into a data warehouse using Python and handle ETL processes using SSIS and SQL Server.
+also it include data base design and data warehouse design
+## Technologies Used
+- Python
+- SQL Server
+- SSIS
